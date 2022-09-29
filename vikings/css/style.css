@@ -1,0 +1,250 @@
+body {
+    background: black;
+    
+}
+
+input {
+position: absolute;
+width: 577px;
+height: 47px;
+left: 80px;
+top: 27px;
+background: #FFFFFF;
+box-shadow: inset 0px 5px 8px 1px rgba(0, 0, 0, 0.3);
+border-radius: 50px;
+}
+
+.item1 {
+position: absolute;
+width: 92.21%;
+height: 764px;
+left: 118px;
+top: 0px;
+opacity: 0.6;
+}
+
+.search-txt {
+position: absolute;
+width: 577px;
+height: 30px;
+left: 104px;
+top: 36px;
+
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+}
+
+h1 {
+position: absolute;
+width: 379px;
+height: 117px;
+left: 80px;
+top: 140px;
+
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 92px;
+line-height: 117px;
+color: #FFFFFF;
+}
+
+h6 {
+position: absolute;
+width: 145px;
+height: 28px;
+left: 120px;
+top: 275px;
+
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 28px;
+color: #FFFFFF;
+}
+
+.stick {
+    position: absolute;
+width: 3px;
+height: 31px;
+left: 270px;
+top: 304px;
+background: #FF2C2B;
+border-radius: 5px;
+}
+
+.act {
+    position: absolute;
+width: 141px;
+height: 27px;
+left: 289px;
+top: 278.2px;
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 27px;
+color: #FFFFFF;
+}
+
+.aboutv {
+    position: absolute;
+    width: 428px;
+    height: 120px;
+    left: 80px;
+    top: 326px;
+    
+    font-family: 'Google Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;color: #FFFFFF;
+}
+
+.readmore {
+position: absolute;
+width: 79px;
+height: 30px;
+left: 80px;
+top: 447px;
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+color: #FF2C2B;
+
+}
+
+.episodes {
+position: absolute;
+width: 203px;
+height: 30px;
+left: 864px;
+top: 626px;
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+color: #FFFFFF;
+}
+
+.trailers {
+position: absolute;
+width: 150px;
+height: 30px;
+left: 80px;
+top: 513px;
+font-weight: 700;
+font-size: 28px;
+line-height: 30px;
+color: #FFFFFF;
+}
+
+.circle {
+position: absolute;
+width: 140px;
+height: 140px;
+left: 745px;
+top: 599px;
+}
+
+.item2 {
+position: absolute;
+width: 255px;
+height: 147px;
+left: 80px;
+top: 600px;
+}
+
+.item3 {
+position: absolute;
+width: 255px;
+height: 147px;
+left: 359px;
+top: 600px;
+}
+
+.james {
+position: absolute;
+width: 150px;
+height: 18px;
+left: 1400px;
+top: 107px;
+
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 18px;
+color: #FFFFFF;
+transform: rotate(90deg);
+}
+
+.creator {
+position: absolute;
+width: 49px;
+height: 18px;
+left: 1430px;
+top: 61.2px;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: rgba(255, 255, 255, 0.6);
+transform: rotate(90deg);
+}
+
+.stick1 {
+position: absolute;
+width: 3px;
+height: 40px;
+left: 1465px;
+top: 170px;
+background: #FF2C2B;
+border-radius: 5px;
+transform: rotate(90deg);
+}
+
+.ragnar {
+position: absolute;
+width: 150px;
+height: 18px;
+left: 1399px;
+top: 272px;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+color: #FFFFFF;
+transform: rotate(90deg);
+}
+
+.actor {
+    position: absolute;
+width: 35px;
+height: 18px;
+left: 1437px;
+top: 215px;
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: rgba(255, 255, 255, 0.6);
+transform: rotate(90deg);
+}
+
+.stick2 {
+position: absolute;
+width: 3px;
+height: 40px;
+left: 1465px;
+top: 345px;
+background: #FF2C2B;
+border-radius: 5px;
+transform: rotate(90deg);
+}
